@@ -1,17 +1,18 @@
 # References
 
-Here are some references about Chess variants.
+Here are some references for Chess variants.
 
-- English Wikipedia, [_List of Chess Variants_](en.wikipedia.org/wiki/List_of_chess_variants).
+- English Wikipedia, [“Chess Variants”](http://en.wikipedia.org/wiki/Chess_variant).
 
-- English Wikipedia, [_Chess Variants_](en.wikipedia.org/wiki/Chess_variant).
+- English Wikipedia, [“Fairy Chess Piece”](http://en.wikipedia.org/wiki/Fairy_chess_piece).
 
-- English Wikipedia, [_Fairy Chess Piece_](en.wikipedia.org/wiki/Fairy_chess_piece).
+- English Wikipedia, [“List of Chess Variants”](http://en.wikipedia.org/wiki/List_of_chess_variants).
 
-- FIDE, [_FIDE Laws of Chess_](Fairy_chess_piece).
-The rule is last updated in 2018.
+- FIDE, [“FIDE Laws of Chess”](http://Fairy_chess_piece).
+The rule was last updated in 2018.
 
-- Japan Shogi Association, [Basic knowledge of Shogi](www.shogi.or.jp/knowledge/shogi/01.html).
-English version is available.
+- Japan Shogi Association, [“Basic knowledge of Shogi”](http://www.shogi.or.jp/knowledge/shogi/01.html).
+English version is available on the site.
 
-- D.B. Pritchard, [_The Classified Encyclopedia of Chess Variants_](www.jsbeasley.co.uk/encyc/encyc.pdf).
+- D.B. Pritchard, [_The Classified Encyclopedia of Chess Variants_](http://www.jsbeasley.co.uk/encyc/encyc.pdf).
+In PDF file.
