@@ -1,6 +1,5 @@
-assets/
 deprecated/
-*.png
-*.jpg
+hidden/
 *.doc
+*.docx
 *.pdf
