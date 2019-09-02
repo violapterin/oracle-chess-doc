@@ -3,21 +3,25 @@
 The _Oracle Chess_ is a novel chess-variant.
 It bears substantial similarity to the canonical Chess, so in this document we focus on the new features only.
 
-This document is intended to be short, and does not settle many plausible cases.
-For further clarification and discussion I have also written a [Detailed Rules](/markdown/detailed-rules.md).
-The reader may skip the Detailed Rules upon first reading.
+This document is intended to be short, and does not settle many plausible scenarios.
+For further clarification and discussion, I have also written a [Detailed Rules](/markdown/detailed-rules.md), which the reader may skip the Detailed Rules upon first reading.
 
 There are mainly three new features in Oracle Chess: bodies and souls, the Priestess, and rebirth, as follows.
 
 To start, in place of solid pieces, players move two kinds of token, called _bodies_ and _souls_, which may be united or be separated.
 Bodies and souls come in several classes, roughly corresponding to the traditional King, Rook, Bishop, Knight, and Pawn, but for clarity, we use different names for them: _Lord_, _Chariot_, _Elephant_, _Horse_, and _Soldier_, respectively.
-When a body matches the soul it hosts, the body is said to be living.
-A _being_ refers to any composite that may lie on a square: a dead body, a mismatched (_ill-suited_) body, a living body (or a _figure_).
-When there is no confusion, a living Chariot is called simply a Chariot, and so on.
+A _being_ refers to any composite that may lie on a square: a soulless (_lifeless_) body, a mismatched (_ill-suited_) body, a soul-hosting (_living_) body (also called a _figure_).
+Unless otherwise noted, a living Chariot is called simply a Chariot, and so on.
 
 The way a body and (or) a soul move is determined only by the class of that soul.
-Only a living body can move, and when it does, it moves together with its soul.
+Only a figure can move, and when it does, it moves together with its soul.
 However, a soul may move alone to another friendly body, as long as the new body has room to host it.
+
+A figure captures another body (friendly or enemy) by kicking it away and occupies the square.
+The soul too can capture another soul (friendly or enemy) by kicking it away, and possessing the body.
+
+A figure may blocked by a body, in the same way as how traditionally Rooks and Bishops are blocked.
+A soul can be blocked too, but only by a soul, so it is possible that, interestingly, a lifeless body blocks a figure from moving, but not the corresponding soul.
 
 A body is associated with either White or Black, but a soul is neutral.
 A player may move any friendly being, that is, any friendly body and possibly the soul it hosts.
@@ -27,8 +31,8 @@ A Priestess matches Chariot, Elephant, or Horse souls, and can host up to three 
 Accordingly, it may move the way any of its soul allows.
 In the beginning of game, a dead Priestess lies on the traditional queen square (_d1_ or _d8_).
 
-Thus, while a traditional move is either going to an empty square, or capturing an enemy piece, here there are three possible actions.
-A living body may go to an empty square, grant a soul to a friendly body, or capture an enemy body, as long as the relation between the initial square and final square corresponds to the soul class. 
+Thus, while a traditional move is either going to an empty square, or capturing an enemy piece, here there are four possible actions.
+A living body may go to an empty square, grant a soul to another body, capture another being, or capture another soul, as long as the relation between the initial square and final square corresponds to the soul class. 
 Note that a Soldier go to, or grant soul to, an empty square in front of it, but captures on the immediate diagonal square.
 
 When a being is captured, the body goes to the earth, which is represented by a tray next to the board, and is owned by the capturing opponent.
